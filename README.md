@@ -1,16 +1,22 @@
-## Hi there 👋
+# Nitish Poonia
 
-<!--
-**nitishpoonia/nitishpoonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on mobile and web products.
+I build things end to end — from UI to backend to deployment.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Mobile** — React Native, TypeScript
+- **Web** — React.js, Next.js, Vite
+- **Backend** — Node.js, Express
+- **Database** — PostgreSQL
+- **Tools** — Figma, Git, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+Currently working on a real-time collaboration platform —
+live chat, shared whiteboard, and payments. (Vite + Express + PostgreSQL)
+
+## Work
+Portfolio → [nitishpoonia.in](https://nitishpoonia.in)
+
+## Contact
+- WhatsApp or email via portfolio
+- Open to full-time roles and freelance projects
